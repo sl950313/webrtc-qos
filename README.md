@@ -1,3 +1,19 @@
+**WebRTC-qos is a project to apply and optimize cc/qos algorithm of papers.**
+
+**Paper list**
+
+- [Kuai2021: Deadline and Priority-aware Congestion Control for Delay-sensitive Multimedia Streaming](https://dl.acm.org/doi/pdf/10.1145/3474085.3479208)
+
+- TO BE CONTINUE
+
+base commit: 44aa6c4e15a6341a5fce4135745b1f8144343243 of master
+
+--------
+
+Origin README of WebRTC
+
+-------------------------
+
 **WebRTC is a free, open software project** that provides browsers and mobile
 applications with Real-Time Communications (RTC) capabilities via simple APIs.
 The WebRTC components have been optimized to best serve this purpose.
